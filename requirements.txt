@@ -1,0 +1,10 @@
+matplotlib
+numpy
+tensorflow
+PIL
+seaborn
+tensorflow_datasets
+pandas
+cv2
+xmltodict
+easyocr
